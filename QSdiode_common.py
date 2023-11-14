@@ -13,7 +13,7 @@
 # limitations under the License.
 
 from devsim import *
-sys.path.append('/home/ccc/devsim/QS_Micro_packages/')
+
 from QSsimple_physics import *
 #####
 # dio1
