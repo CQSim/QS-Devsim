@@ -1,7 +1,7 @@
 import os, socket, math, sys
 from devsim.python_packages.simple_dd import *
 from devsim import *
-sys.path.append('/home/ccc/devsim/QS_Micro_packages/')
+
 from QSmodel_create import *
 from QSsimple_physics import *
 
