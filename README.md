@@ -8,11 +8,11 @@ At present, there are just three example devices.
 The first one is P-N junction diode, which can be used in the teaching of semiconductor courses.
 It also can be modified to simulate your own devices according add proper physical models.
 
-The second one is the ferroelectric capacitor with a step-like shape. This work is based on the Miller experimental equations [J. Appl. Phys. 1990, 68, 6463] or Laundao-Ginsberg.
+The second one is the ferroelectric capacitor with a step-like shape. This work is based on the Miller experimental equations [J. Appl. Phys. 1990, 68, 6463] or Laundao-Ginsberg
 If you use this ferroelectric model in research, please cite the following paper:
 Q. Chen, D. Lin, Q. Wang, J. Yang, J. E. Sanchez, G. Zhu, physica status solidi (a) 2021, 218 (22), https://doi.org/10.1002/pssa.202100408.
 
 The third one is a work to analyze traps in organic semiconductors. It can be used in different types of organic devices, like field effect transistors, diodes, and so on.
-This is a noncommercial free project because it has been granted with a Chinese patent[grante No.：CN 113297818 B]. But it is free for research and personal purposes. 
+This is a noncommercial free project because it has been granted with a Chinese patent [Granted No.：CN 113297818 B]. But it is free for research and personal purposes. 
 The theoretical details can be found in this paper: Q. Chen, J. E. Sanchez, D. Lin, Y. Lei, G. Zhu, Organic Electronics 2022, 103, 106464, https://doi.org/10.1016/j.orgel.2022.106464.
 If you use this model in your research, please cite this paper.
