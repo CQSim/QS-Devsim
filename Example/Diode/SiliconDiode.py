@@ -2,8 +2,7 @@
 #! /home/ccc/miniconda3/bin/python
 import devsim,sys
 
-sys.path.append('/home/ccc/devsim/QS_Micro_packages/')
-sys.path.append('./')
+sys.path.append('../../')
 from QSsimple_physics import *
 from QSPlotSweep import *
 from QSGaussianEnhancement import *
