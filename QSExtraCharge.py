@@ -1,6 +1,6 @@
 from devsim.python_packages.simple_dd import *
 from devsim import *
-sys.path.append('/home/ccc/devsim/QS_Micro_packages/')
+sys.path.append('../../')
 from QSmodel_create import *
 from QSsimple_physics import *
 
