@@ -10,12 +10,12 @@ hostname = socket.gethostname()
 
 def InDisplayHost():
   #### Determine whether the simulated results be displayed immediately
-  HostList=("nashost","C-Twist","TurboKing","ccc-Inspiron-660s","T640U")
+  HostList=()
   return hostname in HostList
 
 def InNoneCompressHost():
   #### Determine whether the exported files be compressed in server
-  HostList=("pvd","C-Twist","nashost","ub18")#,"T640-Ubuntu","T640U"
+  HostList=()#
   return hostname in HostList
 
 #TODO: make this a class so that paramters can be changed
