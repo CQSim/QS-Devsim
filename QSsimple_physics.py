@@ -4,7 +4,7 @@ from devsim import *
 import pandas as pd
 
 
-sys.path.append('/home/ccc/devsim/QS_Micro_packages/')
+sys.path.append('../../')
 from QSmodel_create import *
 hostname = socket.gethostname()
 
