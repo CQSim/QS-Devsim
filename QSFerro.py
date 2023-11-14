@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from devsim import *
-sys.path.append('/home/ccc/devsim/QS_Micro_packages/')
+
 from QSsimple_physics import *
 
 def CentiMeterFerroParameters(device, region, 
