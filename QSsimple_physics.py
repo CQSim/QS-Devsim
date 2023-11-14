@@ -4,7 +4,6 @@ from devsim import *
 import pandas as pd
 
 
-sys.path.append('../../')
 from QSmodel_create import *
 hostname = socket.gethostname()
 
