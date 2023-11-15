@@ -9,7 +9,7 @@ At present, there are just four example devices:
 The first one is the P-N junction diode, which can be used in the teaching of semiconductor courses.
 It also can be modified to simulate your own devices according add proper physical models.
 
-The second one is a ferroelectric capacitor with a step-like shape. This work is based on the Miller experimental equations [J. Appl. Phys. 1990, 68, 6463] or Ginzburg-Landau model. Users can apply this model from 1D to 3D devices.
+The second one is a ferroelectric capacitor with a step-like shape. This work is based on the Miller empirical equations [J. Appl. Phys. 1990, 68, 6463]. Users can apply this model from 1D to 3D devices.
 
 The third one is a P-type ferroelectric thin film transistor with a bottom-gate and bottom-contact configuration. The ferroelectric model used in this work is the same as the second work. This work has been published in Physica Status Solidi (a) 2021, 218 (22).
 
