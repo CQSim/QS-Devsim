@@ -31,5 +31,5 @@ Ferroelectric BCBG TFT
 ![image](Example/Ferroelectric%20TFT%20BCBG/mu1.00e+06D-5G30.0~-35.0_drain_-5.00V_gate_-35.00V~30.00Vback_Reduce_Interval~27.16V.png)
 
 Organic Traps in TFT
-![image](Example/Organic%20Traps%20in%20TFT/drain_-0.12V_gate_-100.00V~50.00Vback_6.48e+00~50.00V.png)
+![image](Example/Organic%20Traps%20in%20TFT/drain_-0.12V_gate_-100.00V~50.00Vback_6.48e+00~50.00V.pdf)
 
