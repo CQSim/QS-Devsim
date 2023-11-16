@@ -21,7 +21,15 @@ This is a noncommercial free project because it has been granted with a Chinese 
 Q. Chen, J. E. Sanchez, D. Lin, Y. Lei, G. Zhu, Organic Electronics 2022, 103, 106464, https://doi.org/10.1016/j.orgel.2022.106464.
 If you use this model in your research, please cite this paper.
 
-
+Diode
 ![image](Example/Diode/bot_0.00V_top_0.00V~-1.00Vpre~-0.70Vmonitor.png)
+Ferroelectric Capacitor
+![image](Example/Ferroelectric%20Capacitor/Polariztion.png)
+![image](Example/Ferroelectric%20Capacitor/bot_0.00V_top_-60.00V~60.00V~60.00V.png)
 
-![image](https://github.com/CQSim/QS-Devsim/blob/master/Example/Ferroelectric%20Capacitor/Polariztion.png)
+Ferroelectric BCBG TFT 
+![image](Example/Ferroelectric%20TFT%20BCBG/mu1.00e+06D-5G30.0~-35.0_drain_-5.00V_gate_-35.00V~30.00Vback_Reduce_Interval~27.16V.png)
+
+Organic Traps in TFT
+![image](Example/Organic%20Traps%20in%20TFT/drain_-0.12V_gate_-100.00V~50.00Vback_6.48e+00~50.00V.png)
+
