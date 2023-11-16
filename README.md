@@ -24,4 +24,4 @@ If you use this model in your research, please cite this paper.
 
 ![image](Example/Diode/bot_0.00V_top_0.00V~-1.00Vpre~-0.70Vmonitor.png)
 
-![image]("Example/Ferroelectric Capacitor/Polariztion.png")
+![image]("Example/Ferroelectric\ Capacitor/Polariztion.png")
