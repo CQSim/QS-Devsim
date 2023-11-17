@@ -20,7 +20,7 @@ If you use the ferroelectric model in your research, please cite the following p
 Q. Chen, D. Lin, Q. Wang, J. Yang, J. E. Sanchez, G. Zhu, physica status solidi (a) 2021, 218 (22), https://doi.org/10.1002/pssa.202100408.
 
 The fourth one is a work to analyze traps in organic semiconductors. It can be used in different types of organic devices, like field effect transistors, diodes, and so on.
-This is a noncommercial free project because it has been granted with a Chinese patent [Granted No.：CN 113297818 B]. But it is free for research and personal purposes. The theoretical details can be found in this paper: 
+This is a noncommercial free project because it has been granted with a Chinese patent [Granted No.：CN 113297818 B]. But it is free for research and personal purposes. The theoretical details can be found in the PDF file![pdf](Example/Organic%20Traps%20in%20TFT/gaussian%20traps-3%20-eng.pdf). this paper: 
 Q. Chen, J. E. Sanchez, D. Lin, Y. Lei, G. Zhu, Organic Electronics 2022, 103, 106464, https://doi.org/10.1016/j.orgel.2022.106464.
 If you use this model in your research, please cite this paper.
 
@@ -36,3 +36,4 @@ Ferroelectric BCBG TFT
 Organic Traps in TFT
 ![image](Example/Organic%20Traps%20in%20TFT/drain_-0.12V_gate_-100.00V~50.00Vback_6.48e+00~50.00V.png)
 
+(
