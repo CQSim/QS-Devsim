@@ -1,11 +1,8 @@
-
-#! /home/ccc/miniconda3/bin/python
 import devsim,sys
 
 sys.path.append('../../')
 from QSsimple_physics import *
 from QSPlotSweep import *
-from QSGaussianEnhancement import *
 import QSdiode_common
 Description=""
 #set extended 128bit for device
