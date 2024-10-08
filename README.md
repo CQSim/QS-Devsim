@@ -34,4 +34,4 @@ Ferroelectric BCBG TFT
 Organic Traps in TFT
 ![image](Example/Organic%20Traps%20in%20TFT/drain_-0.12V_gate_-100.00V~50.00Vback_6.48e+00~50.00V.png)
 
-(
+There are Manual and Background knowledge files in PDF format. Both of theme are in Chinese. If anyone need English version, Please contact me with the mail of qiusongchen@outlook.com or chenqiusong@gmail.com
